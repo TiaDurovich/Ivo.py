@@ -14,9 +14,9 @@ Each section contains:
 - A **solutions** directory with completed example solutions (clearly numbered)
 
 ### Included Lessons (as of 07/08/25)
-- **Variables and Data Types**
-- **Flow of Execution and Functions**
-- **Conditionals**
+- 01.1. **Variables and Data Types**
+- 01.2. **Flow of Execution and Functions**
+- 01.3. **Conditionals**
 
 ---
 
